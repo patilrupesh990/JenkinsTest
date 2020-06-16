@@ -12,7 +12,7 @@ class Ab
 				System.out.print(j--);
 				if(l>1)
 				{
-					System.out.print("* *");
+					System.out.print("*");
 					System.out.println("New Update modified");
 				}			
 			}
