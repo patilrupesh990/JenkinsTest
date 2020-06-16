@@ -13,6 +13,7 @@ class Ab
 				if(l>1)
 				{
 					System.out.print("* * *");
+					System.out.println("New Update");
 				}			
 			}
 			System.out.println();
