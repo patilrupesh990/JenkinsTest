@@ -16,7 +16,7 @@ class Ab
 					System.out.println("New Update modified");
 				}			
 			}
-			System.out.println();
+			System.out.println("*");
 		}
 	}
 	
